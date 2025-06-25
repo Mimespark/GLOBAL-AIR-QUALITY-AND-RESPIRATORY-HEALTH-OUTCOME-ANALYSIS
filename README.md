@@ -110,4 +110,5 @@ Launch air-quality awareness in high-risk zones, especially where Air quality in
 Encourage cities to support citizens with real-time pollution apps and health risk alerts, particularly in cities with high Coarse air and Ozone (O₃) Volatility.
 
 **Google link:** https://drive.google.com/file/d/1ZQ5U8UJ13lEREFGUQ9HLl1PJhBI1UUpe/view?usp=drive_link
+
 **Tool used:** Power BI
