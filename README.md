@@ -63,6 +63,8 @@ Some countries with high AQI also show high PM10 levels,
 
 PM2.5 has a stronger correlation with AQI spikes than PM10 in many countries, highlighting the fine, invisible particles as the more dangerous pollutant.
 
+**OBJECTIVES**
+
 Air Quality Index and Particulate Matter (PM10 & PM2.5);
 
 Delhi and Beijing show the highest AQI levels, which indicating very poor air quality.
@@ -70,8 +72,6 @@ Delhi and Beijing show the highest AQI levels, which indicating very poor air qu
 PM10 levels are highest in Beijing (144) and Delhi (133), confirming a severe concentration of coarse air pollutant in these regions.
 
 London and Tokyo have lower AQI and PM values respectively, indicating better air quality in these cities.
-
-**OBJECTIVES**
 
 **Maximum Coarse Air (PM10)**
 
